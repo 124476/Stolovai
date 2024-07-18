@@ -27,8 +27,6 @@ namespace Stolovai.Pages
         public PageMain()
         {
             InitializeComponent();
-            ComboSchools.ItemsSource = new string[] { "Лицей имени Лобачевского" };
-            ComboSchools.SelectedIndex = 0;
             App.selectedSchool = 1;
 
             DispatcherTimer dispatcherTimer = new DispatcherTimer();
@@ -44,6 +42,9 @@ namespace Stolovai.Pages
 
         private async void Refresh()
         {
+            ComboSchools.ItemsSource = (await NetManage.Get<List<School>>("/api/schools")).ToList();
+            ComboSchools.SelectedIndex = 0;
+
             ListDishes.ItemsSource = (await NetManage.Get<List<Dish>>("/api/dishes/1")).ToList();
             ListDishesNow.ItemsSource = (await NetManage.Get<List<Dish>>("/api/dishes/1/now")).ToList();
         }
@@ -70,7 +71,8 @@ namespace Stolovai.Pages
 
         private void ComboSchools_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            App.selectedSchool = 1;
+            var school = ComboSchools.SelectedItem as School;
+            App.selectedSchool = school.Id;
         }
     }
 }

@@ -31,7 +31,7 @@
             </ListView>
             <StackPanel Grid.Row="1" Margin="10" Width="300">
                 <TextBlock Text="Укажите школу" FontSize="17"></TextBlock>
-                <ComboBox Name="ComboSchools" FontSize="17" Margin="0,10" SelectionChanged="ComboSchools_SelectionChanged"></ComboBox>
+                <ComboBox Name="ComboSchools" FontSize="17" Margin="0,10" SelectionChanged="ComboSchools_SelectionChanged" DisplayMemberPath="Name"></ComboBox>
             </StackPanel>
         </Grid>
         <Grid Margin="10" Grid.Column="1">
