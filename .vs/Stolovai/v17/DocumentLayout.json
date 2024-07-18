@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\windows\\oknodish.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\windows\\oknodish.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\windows\\oknodish.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\windows\\oknodish.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\pages\\pagemain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\pages\\pagemain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\servies\\netmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\servies\\netmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\pages\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\pages\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|c:\\users\\stipo6\\source\\repos\\stolovai\\stolovai\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3AF2FAA-79E7-42F8-A338-FEA030937490}|Stolovai\\Stolovai.csproj|solutionrelative:stolovai\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 405,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OknoDish.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Windows\\OknoDish.xaml.cs",
+              "RelativeDocumentMoniker": "Stolovai\\Windows\\OknoDish.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Windows\\OknoDish.xaml.cs",
+              "RelativeToolTip": "Stolovai\\Windows\\OknoDish.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:35:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OknoDish.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Windows\\OknoDish.xaml",
+              "RelativeDocumentMoniker": "Stolovai\\Windows\\OknoDish.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Windows\\OknoDish.xaml",
+              "RelativeToolTip": "Stolovai\\Windows\\OknoDish.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T11:34:25.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\App.xaml",
+              "RelativeDocumentMoniker": "Stolovai\\App.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\App.xaml",
+              "RelativeToolTip": "Stolovai\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T11:33:35.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Stolovai\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\App.xaml.cs",
+              "RelativeToolTip": "Stolovai\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:33:06.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Models\\School.cs",
+              "RelativeDocumentMoniker": "Stolovai\\Models\\School.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Models\\School.cs",
+              "RelativeToolTip": "Stolovai\\Models\\School.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:16:41.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageMain.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Pages\\PageMain.xaml.cs",
+              "RelativeDocumentMoniker": "Stolovai\\Pages\\PageMain.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Pages\\PageMain.xaml.cs",
+              "RelativeToolTip": "Stolovai\\Pages\\PageMain.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:16:25.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageMain.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Pages\\PageMain.xaml",
+              "RelativeDocumentMoniker": "Stolovai\\Pages\\PageMain.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Pages\\PageMain.xaml",
+              "RelativeToolTip": "Stolovai\\Pages\\PageMain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T11:15:09.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Stolovai\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Models\\Dish.cs",
+              "RelativeToolTip": "Stolovai\\Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:11:01.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetManage.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Servies\\NetManage.cs",
+              "RelativeDocumentMoniker": "Stolovai\\Servies\\NetManage.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\Servies\\NetManage.cs",
+              "RelativeToolTip": "Stolovai\\Servies\\NetManage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:10:53.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Stolovai\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\MainWindow.xaml",
+              "RelativeToolTip": "Stolovai\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T11:06:40.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Stolovai\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\Stolovai\\Stolovai\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Stolovai\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:06:39.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
