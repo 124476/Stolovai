@@ -67,6 +67,9 @@
     <Compile Include="Windows\OknoDish.xaml.cs">
       <DependentUpon>OknoDish.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Windows\OknoSchools.xaml.cs">
+      <DependentUpon>OknoSchools.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -84,6 +87,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Windows\OknoDish.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\OknoSchools.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

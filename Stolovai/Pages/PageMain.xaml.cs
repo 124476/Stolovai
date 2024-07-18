@@ -33,6 +33,17 @@ namespace Stolovai.Pages
             dispatcherTimer.Interval = TimeSpan.FromSeconds(3);
             dispatcherTimer.Tick += RefreshTimer;
             dispatcherTimer.Start();
+
+            GetSchools();
+        }
+
+        private async void GetSchools()
+        {
+            ComboSchools.ItemsSource = (await NetManage.Get<List<School>>("/api/schools")).ToList();
+            while (ComboSchools.Items.Count == 0)
+                continue;
+
+            ComboSchools.SelectedIndex = 0;
         }
 
         private void RefreshTimer(object sender, EventArgs e)
@@ -42,11 +53,10 @@ namespace Stolovai.Pages
 
         private async void Refresh()
         {
-            ComboSchools.ItemsSource = (await NetManage.Get<List<School>>("/api/schools")).ToList();
-            ComboSchools.SelectedIndex = 0;
-
-            ListDishes.ItemsSource = (await NetManage.Get<List<Dish>>("/api/dishes/1")).ToList();
-            ListDishesNow.ItemsSource = (await NetManage.Get<List<Dish>>("/api/dishes/1/now")).ToList();
+            if (ComboSchools.Items.Count == 0)
+                return;
+            ListDishes.ItemsSource = (await NetManage.Get<List<Dish>>($"/api/dishes/{App.selectedSchool}")).ToList();
+            ListDishesNow.ItemsSource = (await NetManage.Get<List<Dish>>($"/api/dishes/{App.selectedSchool}/now")).ToList();
         }
 
         private void ListDishes_MouseDoubleClick(object sender, MouseButtonEventArgs e)
@@ -72,7 +82,18 @@ namespace Stolovai.Pages
         private void ComboSchools_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             var school = ComboSchools.SelectedItem as School;
+            if (school == null)
+                return;
+
             App.selectedSchool = school.Id;
+            Refresh();
+        }
+
+        private void SetSchools_Click(object sender, RoutedEventArgs e)
+        {
+            var dialog = new OknoSchools();
+            dialog.ShowDialog();
+            GetSchools();
         }
     }
 }
