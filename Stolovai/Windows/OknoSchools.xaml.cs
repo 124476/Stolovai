@@ -83,9 +83,9 @@ namespace Stolovai.Windows
         private async void AddSchool()
         {
             if (contextSchool.Id == 0)
-                await NetManage.Set($"/api/schools/add/{contextSchool.Name}");
+                await NetManage.Set($"/api/schools/add/{contextSchool.Name}/{contextSchool.Password}");
             else
-                await NetManage.Set($"/api/schools/set/{contextSchool.Id}/{contextSchool.Name}");
+                await NetManage.Set($"/api/schools/set/{contextSchool.Id}/{contextSchool.Name}/{contextSchool.Password}");
             SetText.Text = "*новая школа";
             contextSchool = new School();
             DataContext = null;

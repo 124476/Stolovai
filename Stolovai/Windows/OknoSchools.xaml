@@ -27,6 +27,8 @@
         <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
             <TextBlock Text="Название школы" FontSize="17"></TextBlock>
             <TextBox Text="{Binding Name}" FontSize="17"></TextBox>
+            <TextBlock Text="Пароль" FontSize="17"></TextBlock>
+            <TextBox Text="{Binding Password}" FontSize="17"></TextBox>
             <TextBlock Text="*новая школа" FontSize="13" Foreground="Gray" HorizontalAlignment="Right" Name="SetText"></TextBlock>
             <Button x:Name="SaveBtn" Content="Сохранить" Click="SaveBtn_Click" FontSize="17" Background="White"></Button>
         </StackPanel>
